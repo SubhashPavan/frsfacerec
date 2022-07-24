@@ -1,0 +1,14 @@
+opencv-python==4.2.0.32
+flask
+scikit-learn==0.22.2.post1
+PILLOW==7.0.0
+protobuf==3.20.*
+scipy==1.8.1
+tensorflow==2.2.0
+boto3
+pymongo
+numpy
+flask-cors
+pycryptodomex
+pyopenssl
+
